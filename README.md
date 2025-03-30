@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo C#.
 - 💞️ Estou procurando colaborar em projetos de gamedev.
 - 📫 Como entrar em contato comigo, Discord -> @gyylf.
-- 😄 Pronomes: Ele/Ela.
+- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Muitas.
 
 <!---
