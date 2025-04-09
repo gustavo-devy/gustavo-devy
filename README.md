@@ -1,12 +1,13 @@
-- 👋 Oi, Eu sou o @gustavo-devy
-- 👀 Estou interessado em se tornar um Back-End.
-- 🌱 Atualmente estou aprendendo C#.
-- 💞️ Estou procurando colaborar em projetos de gamedev.
-- 📫 Como entrar em contato comigo, Discord -> @gyylf.
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Muitas.
+## Olá, eu sou o Gustavo!
 
-<!---
-gustavo-devy/gustavo-devy é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link Preview para dar uma olhada nas suas alterações.
---->
+<div>
+  <a href="#"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-devy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-devy&layout=compact&langs_count=4&theme=dark"/>
+</div>
+
+<div display: inline_block><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+</div>
