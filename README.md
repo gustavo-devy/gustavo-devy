@@ -23,14 +23,6 @@ Olá! Meu nome é Gustavo Soares, tenho 16 anos e atualmente estou cursando o en
 
 ## 📚 **Estatísticas**
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavo-devy&show_icons=true&theme=react&include_all_commits=true" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
